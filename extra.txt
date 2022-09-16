@@ -1,0 +1,19 @@
+express: server to be used
+
+ejs: templating language
+
+socket.io: allows to communicate back and forth easily with the actual server
+
+uuid: allows us to create dynamic urls with different room numbers
+
+--save-dev nodemon: We dont have to save the server each time we make changes
+
+-g peer: helps in connecting users through webRCT
+
+peerjs --port 3001: starts the peer surver on port 3001
+
+
+port 3000 is used initially for setting up the server
+
+
+https://www.youtube.com/watch?v=DvlyzDZDEq4&list=PLZlA0Gpn_vH8DWL14Wud_m8NeNNbYKOkj&index=3
